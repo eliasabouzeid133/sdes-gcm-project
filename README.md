@@ -127,8 +127,8 @@ message = "The meeting will take place at midnight near the old bridge on the no
 
 key = "1100010011"
 
-counter = "00000001"
-
+counter = "00000001" 
+```
 ## Output
 
 The program displays:
